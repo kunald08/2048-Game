@@ -14,7 +14,7 @@ A simple implementation of the classic 2048 game in Python using Tkinter.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/dharpurekunal08/2048-game.git
+   git clone https://github.com/kunald08/2048-game.git
    cd 2048-game
 
 2. **Run the Game:**
